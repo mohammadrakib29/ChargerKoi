@@ -1,0 +1,73 @@
+/* ==================X-Small Devices================= */
+@media(max-width:575.98px){
+    /* ===============banner parts  goes to here============ */
+    #banner {
+     
+        overflow: hidden;
+    }
+    .banner_text {
+        margin-left: 0;
+        padding-top: 38px;
+    }
+    .banner_img img {
+        width: 100% !important;
+        margin: 51px 0 0 0px;
+    }
+    .event_content p {
+        font-size: 18px;
+    }
+    .email_sub input::placeholder {
+        font-size: 14px;
+       
+    }
+    .submit_e {
+        width: 120px;
+        font-size: 14px;
+        right: 1px;
+        top: 1px;
+        padding: 17px !important;
+    }
+    .down_main h3 {
+        font-size: 45px;
+    }
+    .download_bg {
+        padding-top: 0;
+        padding-left: 0;
+    }
+    .button_stor img {
+        margin: 10px 0;
+    }
+    .event_content {
+        padding: 30px 40px 20px 0;
+    }
+    .download_bg {
+       
+        margin-top: calc(var(--bs-gutter-y) * -1);
+        margin-right: calc(var(--bs-gutter-x) * -.5);
+        margin-left: calc(var(--bs-gutter-x) * -.5);
+        
+    }
+    .down_main p {
+        padding-bottom: 0px;
+    }
+    .d_profile img {
+        padding-top: 50px;
+        width: 70%;
+    }
+    .padding1 {
+        padding: 0px;
+    }
+    .foot_content_down p {
+        padding: 8px 0 10px 0px !important;
+        /*! line-height: 0; */
+        margin-bottom: 0;
+    }
+
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin: 13px 0;
+    }
+    .news_events_text {
+        margin-left: 0;
+    }
+}
